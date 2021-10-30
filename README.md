@@ -10,4 +10,4 @@ This is a repository of the team1 of DSR Batch 28 competitions on 27-30 October 
     - `conda activate group1`
 2. `pip3 install -r requirements.txt`
 3. open jupyter-notebook `Final_evaluation.ipynb`
-4. replace URL for test data set in variable `test`
+4. replace URL for test data set in variable `test` (in the 2nd cell of the notebook)
