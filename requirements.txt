@@ -1,5 +1,6 @@
-pandas
-numpy
-matplotlib
-plotly
-sklearn
+pandas==1.2.4
+numpy==1.20.1
+sklearn==0.24
+pickle==4.0
+
+
